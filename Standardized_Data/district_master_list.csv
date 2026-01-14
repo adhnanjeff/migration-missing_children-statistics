@@ -1,0 +1,91 @@
+state,district,sources
+Karnataka,Bagalkot,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Ballari,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Belagavi,aadhaar_demographic_ka.csv
+Karnataka,Belgaum,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Bengaluru,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Bengaluru Rural,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Bengaluru South,aadhaar_demographic_ka.csv
+Karnataka,Bidar,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Bijapur,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Bijapur(KAR),aadhaar_demographic_ka.csv
+Karnataka,Chamarajanagar,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Chamrajanagar,aadhaar_demographic_ka.csv
+Karnataka,Chamrajnagar,aadhaar_demographic_ka.csv
+Karnataka,Chickmagalur,aadhaar_demographic_ka.csv
+Karnataka,Chikkaballapur,aadhaar_demographic_ka.csv
+Karnataka,Chikkamagaluru,aadhaar_demographic_ka.csv
+Karnataka,Chikmagalur,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Chitradurga,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Dakshina Kannada,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Davanagere,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Davangere,aadhaar_demographic_ka.csv
+Karnataka,Dharwad,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Gadag,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Hasan,aadhaar_demographic_ka.csv
+Karnataka,Hassan,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Haveri,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Kalaburagi,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Kodagu,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Kolar,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Koppal,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Mandya,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Mysuru,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Raichur,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Ramanagar,aadhaar_demographic_ka.csv
+Karnataka,Shimoga,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Shivamogga,aadhaar_demographic_ka.csv
+Karnataka,Tumakuru,aadhaar_demographic_ka.csv
+Karnataka,Tumkur,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Udupi,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Uttara Kannada,"aadhaar_demographic_ka.csv, census_migration_ka.csv"
+Karnataka,Vijayanagara,aadhaar_demographic_ka.csv
+Karnataka,Vijayapura,aadhaar_demographic_ka.csv
+Karnataka,Yadgir,aadhaar_demographic_ka.csv
+Karnataka,yadgir,aadhaar_demographic_ka.csv
+Tamil Nadu,Ariyalur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Chengalpattu,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Chennai,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Coimbatore,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Cuddalore,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Dharmapuri,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Dindigul,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Erode,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Kallakurichi,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Kancheepuram,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Kanchipuram,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Kanniyakumari,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Kanyakumari,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Karur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Krishnagiri,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Madurai,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Mayiladuthurai,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Nagapattinam,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Namakkal,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Nilgiris,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Perambalur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Pudukkottai,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Ramanathapuram,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Ranipet,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Salem,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Sivaganga,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Tenkasi,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Thanjavur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,The Nilgiris,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Theni,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Thiruvallur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Thiruvarur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Thoothukkudi,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Thoothukudi,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Tiruchirappalli,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Tirunelveli,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Tirupathur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Tirupattur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Tiruppur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Tiruvallur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Tiruvannamalai,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Tiruvarur,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Vellore,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Villupuram,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv"
+Tamil Nadu,Viluppuram,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
+Tamil Nadu,Virudhunagar,"aadhaar_demographic_tn.csv, aadhaar_biometric_tn.csv, census_migration_tn.csv"
