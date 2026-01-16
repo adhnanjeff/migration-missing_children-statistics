@@ -443,27 +443,13 @@ def main():
     )
     all_datasets.append(bio_ka)
     
-    # Process Census Migration data
-    census_mig_tn = process_census_migration(
-        'Raw_Data/Census_TN.xls',
-        'Tamil Nadu',
-        'Standardized_Data/census_migration_tn.csv'
-    )
-    all_datasets.append(census_mig_tn)
+    # Note: Census Migration datasets (Census_TN.xls and Census_Karnataka.xls) 
+    # are not used in this analysis
     
-    census_mig_ka = process_census_migration(
-        'Raw_Data/Census_Karnataka.xls',
-        'Karnataka',
-        'Standardized_Data/census_migration_ka.csv'
-    )
-    all_datasets.append(census_mig_ka)
-    
-    # Process Census Population data
-    census_pop = process_census_population(
-        'Raw_Data/Census_India.xls',
-        'Standardized_Data/census_population.csv'
-    )
-    all_datasets.append(census_pop)
+    # Note: Census Population data should be fetched from API using fetch_census_api.py
+    # The Census_India.xls file only contains India-level data, not district-level
+    # Run: python3 fetch_census_api.py YOUR_API_KEY
+    # This will create Standardized_Data/census_population_api.csv
     
     # Create district mapping
     all_districts = create_district_mapping(all_datasets)

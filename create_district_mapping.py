@@ -15,8 +15,7 @@ def create_district_mapping():
         'Standardized_Data/aadhaar_demographic_tn.csv',
         'Standardized_Data/aadhaar_biometric_tn.csv',
         'Standardized_Data/aadhaar_demographic_ka.csv',
-        'Standardized_Data/census_migration_tn.csv',
-        'Standardized_Data/census_migration_ka.csv',
+        # Note: Census migration datasets removed from analysis
     ]
     
     all_districts = {}
